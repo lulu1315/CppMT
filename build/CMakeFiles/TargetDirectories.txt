@@ -1,0 +1,4 @@
+/mnt/autofs/shared1/foss-18/CppMT/build/CMakeFiles/rebuild_cache.dir
+/mnt/autofs/shared1/foss-18/CppMT/build/CMakeFiles/edit_cache.dir
+/mnt/autofs/shared1/foss-18/CppMT/build/CMakeFiles/cmt.dir
+/mnt/autofs/shared1/foss-18/CppMT/build/CMakeFiles/cmt_track.dir
